@@ -14,7 +14,7 @@
  [![E-mail ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.saviols@gmail.com)  [![Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saviols_?igsh=Mmp4NmNtZGd1YTEw) 
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="left"> Ferramentas:</h3>
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
