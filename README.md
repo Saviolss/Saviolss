@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left"> Ferramentas:</h3>
-<div style="display: inline-block">
+<div style="display: flex">
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
