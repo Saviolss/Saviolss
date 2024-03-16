@@ -16,6 +16,7 @@
 
 <h3 align="left"> Ferramentas:</h3>
 <div style="display: inline-block">
+<div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 <div style="display: inline-block">
@@ -32,5 +33,6 @@
 </div>
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
 </div>
 
