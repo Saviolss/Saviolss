@@ -2,9 +2,9 @@
  
  ![Savio GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviolss&show_icons=true&theme=onedark)
  
-<h3 align="center">Um apaixonado desenvolvedor frontend do Brasil</h3>
+<h3 align="center">Desenvolvedor Full-Stack em Javascript</h3>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https ://portfolio-five-zeta-70.vercel.app/](https://portfolio-five-zeta-70.vercel.app/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https ://saviodev.com](https://saviodev.com)
 
 
 
@@ -29,10 +29,12 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 <div style="display: inline-block">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
-<div style="display: inline-block">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
+
+
+
+
+ 
 </div>
 
